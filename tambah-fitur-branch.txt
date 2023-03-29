@@ -3,4 +3,7 @@ Playlist lagu favorit saat ngoding :
 - Dmasiv - Pergilah kasih
 - Dmasiv - Natural
 - Armada - Mabuk Cinta
-- Peterpan - Bintang di Surga
+- Peterpan
+  * Bintang disurga
+  * Mimpi Yang Sempurna
+  * Walau Habis Terang
