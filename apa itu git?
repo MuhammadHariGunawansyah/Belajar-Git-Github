@@ -2,3 +2,15 @@ Git adalah sebuah software untuk mengelola perubahan file didalam folder
 (repository / repo)
 
 - Git juga dapat melihat riwayat perubahan file disimpan menggunakan serangkaian commit
+
+ISTILAH GIT
+1. repo : folder project kita
+2. commit : rekaman / snapshot dari repo kita dalam keadaan tertentu, misalkan ketika kita melakukan perubahan kita save. lalu kita melakukan commit.
+3. hash : penanda unik pada sebuah commit untuk melacak $#15121454%#@$
+4. checkout : berpindah ke sebuah commit, misalkan mundur ke commit yang mana
+5. branch : cabang bebas dari sebuah commit, baik itu kita sendiri yang bikin atau orang lain
+6. merge : menggabungkan branch
+7. remote : sumber yang memiliki repo
+8. clone : mengambil repo dari remote
+9. push : mengirimkan commit ke repo 
+10. pull : mengambil commit dari repo
